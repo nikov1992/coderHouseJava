@@ -1,4 +1,4 @@
-package com.clasesCoder.clase03;
+package clase01;
 
 public class practica {
 //asadasd
