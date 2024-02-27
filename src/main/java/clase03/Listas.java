@@ -12,7 +12,7 @@ public class Listas {
 
         colores.add("Blanco");
         colores.add("Rojo");
-        colores.add("Negro");
+        colores.add("Negrooo");
 
         Iterator<String> iterator = colores.iterator();
 
